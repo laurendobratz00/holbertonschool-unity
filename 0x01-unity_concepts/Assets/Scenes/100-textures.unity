@@ -676,7 +676,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 199739de91d294e3297f39a2b8972517, type: 2}
     - target: {fileID: 6007876125142606664, guid: 7aad62d244c6746f185a3d3b2c0aa120, type: 3}
       propertyPath: m_Name
-      value: Ball
+      value: Textured Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7aad62d244c6746f185a3d3b2c0aa120, type: 3}
