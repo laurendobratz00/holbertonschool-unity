@@ -203,3 +203,11 @@ Received Import Request.
 Start importing Assets/Prefabs/TimerCanvas.prefab using Guid(507694efc58b64a37af3752e8db1bf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47fbfaa0b1eb692dd307f210d8e38339') in 1.287061 seconds 
   Import took 1.290671 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1941.053131 seconds.
+  path: Assets/Prefabs/TimerCanvas.prefab
+  artifactKey: Guid(507694efc58b64a37af3752e8db1bf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TimerCanvas.prefab using Guid(507694efc58b64a37af3752e8db1bf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885ffa54925661512f34461d500dbd8f') in 0.051171 seconds 
+  Import took 0.065042 seconds .
+
