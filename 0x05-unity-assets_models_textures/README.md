@@ -1,1 +1,0 @@
-# This is a readme for 0x05-unity-assets_models_textures
