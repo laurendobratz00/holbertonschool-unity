@@ -211,3 +211,51 @@ Received Import Request.
 Start importing Assets/Prefabs/TimerCanvas.prefab using Guid(507694efc58b64a37af3752e8db1bf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885ffa54925661512f34461d500dbd8f') in 0.051171 seconds 
   Import took 0.065042 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 5028.877446 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(be92c2caf8df24c338b9e132877775a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(be92c2caf8df24c338b9e132877775a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4031a7f20af089798d6b06918b1d429b') in 0.004481 seconds 
+  Import took 0.028472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 285.479835 seconds.
+  path: Assets/Textures/Holbie Logo.png
+  artifactKey: Guid(86c9fa93a98af4d59aea9238e338db40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Holbie Logo.png using Guid(86c9fa93a98af4d59aea9238e338db40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afec2c86c76d7bc043de2d8174acc1f1') in 0.067179 seconds 
+  Import took 0.071543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.473897 seconds.
+  path: Assets/Textures/Flag.png
+  artifactKey: Guid(86c9fa93a98af4d59aea9238e338db40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Flag.png using Guid(86c9fa93a98af4d59aea9238e338db40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6b9cc9f8de6371caba8281e7ae45e6') in 0.026051 seconds 
+  Import took 0.030919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001559 seconds.
+  path: Assets/Textures/Flag.png
+  artifactKey: Guid(86c9fa93a98af4d59aea9238e338db40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Flag.png using Guid(86c9fa93a98af4d59aea9238e338db40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6b9cc9f8de6371caba8281e7ae45e6') in 0.012179 seconds 
+  Import took 0.015542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.167826 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(cf0c416f98fd343409a19e5f606d6cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(cf0c416f98fd343409a19e5f606d6cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2187ab2a0208827bfc9caeef54fe24b') in 0.003702 seconds 
+  Import took 0.008684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.588892 seconds.
+  path: Assets/Materials/Flag.mat
+  artifactKey: Guid(e2e91249aaf664498a1b6d1d2b096d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Flag.mat using Guid(e2e91249aaf664498a1b6d1d2b096d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d5c6e3d805f7822fc2d80a5f0ca7cf') in 0.727464 seconds 
+  Import took 0.732240 seconds .
+
