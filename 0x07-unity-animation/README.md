@@ -1,6 +1,4 @@
-# 0x06. Unity - Assets: UI
-- [Project Page](https://intranet.hbtn.io/projects/437)
-nugget
+# 0x07-unity-animation
 
 ## Building a 3D Platformer Game
 - This project is the second in a series that will result in a platformer game in which the character can move and jump around onto different platforms.
