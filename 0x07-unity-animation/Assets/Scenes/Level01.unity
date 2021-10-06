@@ -4030,6 +4030,7 @@ GameObject:
   - component: {fileID: 775709966}
   - component: {fileID: 775709965}
   - component: {fileID: 775709968}
+  - component: {fileID: 775709969}
   m_Layer: 0
   m_Name: CutsceneCamera
   m_TagString: Untagged
@@ -4121,6 +4122,23 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &775709969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775709964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8c54c092d57549f1bcacf163cff1c05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerCapsule: {fileID: 1690138024}
+  Player: {fileID: 1834369648}
+  PlayerFollowCamera: {fileID: 1094574156}
+  TimerCanvas: {fileID: 1815850568}
+  CutsceneCamera: {fileID: 775709966}
 --- !u!4 &787104502 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: 3ca99c00965e4574d907a11c0695b807, type: 3}
@@ -9477,7 +9495,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1690138024}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: acbe9b318e6deac4c9325c4a8fe47adc, type: 3}
   m_Name: 
@@ -10350,6 +10368,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1815850568 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1824288670144083787, guid: 4c22b2955a613e74a8d1443780aafd30, type: 3}
+  m_PrefabInstance: {fileID: 1824288669893532713}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1823141916
 GameObject:
   m_ObjectHideFlags: 0
@@ -11685,6 +11708,10 @@ PrefabInstance:
     - target: {fileID: 1824288670144083787, guid: 4c22b2955a613e74a8d1443780aafd30, type: 3}
       propertyPath: m_Name
       value: TimerCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 1824288670144083787, guid: 4c22b2955a613e74a8d1443780aafd30, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1824288670144083791, guid: 4c22b2955a613e74a8d1443780aafd30, type: 3}
       propertyPath: m_Pivot.x
