@@ -7,7 +7,7 @@
     <key>CFBundleExecutable</key>
     <string>0x05-unity-assets_models_textures</string>
     <key>CFBundleGetInfoString</key>
-    <string>Unity Player version 2020.3.10f1 (297d780c91bc). (c) 2021 Unity Technologies ApS. All rights reserved.</string>
+    <string>Unity Player version 2020.3.14f1 (d0d1bb862f9d). (c) 2021 Unity Technologies ApS. All rights reserved.</string>
     <key>CFBundleIconFile</key>
     <string>PlayerIcon.icns</string>
     <key>CFBundleIdentifier</key>
@@ -40,6 +40,6 @@
     <key>NSPrincipalClass</key>
     <string>PlayerApplication</string>
     <key>UnityBuildNumber</key>
-    <string>297d780c91bc</string>
+    <string>d0d1bb862f9d</string>
   </dict>
 </plist>
