@@ -10,6 +10,14 @@ public class WinTrigger : MonoBehaviour
     private Timer timer_script;
     public GameObject WinCanvas;
 
+    public AudioSource cheerymonday;
+
+    public AudioSource victorypiano;
+
+    public bool cheery = true;
+
+    public bool victory = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -31,6 +39,13 @@ public class WinTrigger : MonoBehaviour
             //TimerText.text = timer_script.elapsedTime.ToString();
             //TimerText.fontSize = 60;
             //TimerText.color = Color.green;
+            if (cheerymonday.isPlaying)
+            {
+                cheery = false;
+                cheerymonday.Stop();
+                victory = true;
+                victorypiano.Play();
+            }
         }
     }
 }
